@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+Host: ruinsider.github.io
+Sitemap: https://ruinsider.github.io/sitemap.xml
